@@ -1,0 +1,23 @@
+Part-1
+Go to http://github.com and create a new repository called git_we (NOTE: Don't tick the option Initialize this repository with a README).
+Part-2
+Create a folder called Git_Intro in your local system using CMD
+Clone your repo inside Git_Intro ( git clone https address)
+Part-3
+Create a folder called DSA inside git_we (Use command line to create folder)
+Now create another subfolder called unit-1 inside DSA folder (use CMD)
+Create file called palindrome.js using VS Code inside the unit-1 folder
+Add the parent folder DSA to git (HINT: use git add command)
+Check the status using git status command
+Commit the changes to git with the message "Name File" (HINT: use git commit -m command)
+Sync the local commit to the remote repo (HINT: use git push command)
+Go to the repo page on http://github.com and see if you can see the name file in the repository
+Part-4
+Create another folder called CSBT inside git_we (Use command line to create folder)
+Now create another subfolder called Introduction inside CSBT folder (use CMD)
+Create file called intro.txt using VS Code inside the Introduction folder
+Add the parent folder CSBT to git (HINT: use git add command)
+Check the status using git status command
+Commit the changes to git with the message "Name File" (HINT: use git commit -m command)
+Sync the local commit to the remote repo (HINT: use git push command)
+Go to the repo page on http://github.com and see if you can see the name file in the repository
